@@ -72,6 +72,9 @@ header {
     padding-bottom: 4px;
     vertical-align: bottom;
 }
+.submenu{
+    z-index:99;
+}
 
 .menu2 li ul {
     position: absolute;
